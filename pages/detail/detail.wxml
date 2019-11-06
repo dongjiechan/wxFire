@@ -1,0 +1,9 @@
+<!--pages/detail/detail.wxml-->
+<view class="contain">
+    <text>详情页</text>
+    <view>
+        <text>设置号码</text>
+        <input type="text" value="{{num}}" bindinput="bindinput"/>
+        <button bindtap="setting">提交</button>
+    </view>
+</view>

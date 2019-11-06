@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="container">
+  <view>设置一个值，比如说数字</view>
+  <view style="color:red;">{{num}}</view>
+  <button  bindtap="jump">设置</button>
+</view>

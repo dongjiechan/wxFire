@@ -1,0 +1,7 @@
+/* pages/detail/detail.wxss */
+input{
+    border:1px solid #ccc;
+}
+.contain{
+    padding:20px;
+}
